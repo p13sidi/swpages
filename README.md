@@ -1,7 +1,9 @@
+[Github page - 1 βαθμός bonus](https://p13sidi.github.io/swpages/)
+
 Παραδοτέο 1
 
 Σιδηροπούλου Δέσποινα
-2013009
+AM 2013009
 Δήλωση θέματος: pacman
 
 Παραδοτέο 2
