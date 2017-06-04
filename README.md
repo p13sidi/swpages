@@ -7,9 +7,12 @@
 Φοιτήτρια: Σιδηροπούλου Δέσποινα Π2013009
 
 [Github page - 1 βαθμός bonus](https://p13sidi.github.io/swpages/)
-[Εκτελέσιμο αρχείο:](https://p13sidi.github.io/pacman/)
-[Προσωπικό αποθετήριο κώδικα:](https://github.com/p13sidi/pacman/blob/master/index.html)
-[Assets:](https://github.com/p13sidi/pacman/tree/master/assets)
+
+[Εκτελέσιμο αρχείο](https://p13sidi.github.io/pacman/)
+
+[Προσωπικό αποθετήριο κώδικα](https://github.com/p13sidi/pacman/blob/master/index.html)
+
+[Assets](https://github.com/p13sidi/pacman/tree/master/assets)
 
 
 
